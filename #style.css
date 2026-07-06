@@ -6,8 +6,18 @@ header{
     margin:0 auto;
 }
 
-main{
-    background-color: #000b76;
-    max-
 
-}
+main{
+    background-color:#000b76;
+    max-width: 800px;
+    margin:0 auto; 
+    padding: 16 px;
+
+    }
+
+    img{
+        width: 80px;
+        height: 80px;
+    }
+
+
